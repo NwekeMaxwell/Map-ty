@@ -1,7 +1,7 @@
-#https://mapty2022.netlify.app/
+# https://mapty2022.netlify.app/
 # Map-ty
 A workout project where you select your location on a real-time map and record your workout session.
-##FEATURING
+## FEATURING
 > GEOLOCATION API
 
 > LOCAL STORAGE API
