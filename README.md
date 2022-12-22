@@ -1,6 +1,6 @@
 # https://mapty2022.netlify.app/
 # Map-ty
-A workout project where you select your location on a real-time map and record your workout session.
+A workout project where you select your location on a real-time map and record your workout sessions.
 ## FEATURING
 > GEOLOCATION API
 
@@ -19,7 +19,6 @@ A workout project where you select your location on a real-time map and record y
 + Real time Location
 + Map Navigation
 + Data input is stored and not lost even after page reload
-+ Leaflet Library
 + click on map to display form
 + fill form to display marker on map 
 + click on any workout on the list to navigate map to its position
